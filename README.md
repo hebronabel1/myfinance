@@ -3,7 +3,6 @@
 An AI-powered personal finance tool built with React. Helps users budget, improve credit, find the right bank, understand loan amortization, and build an investment strategy.
 
 **Live:** [hebronabel1.github.io/myfinance](https://hebronabel1.github.io/myfinance)  
-**Access code:** myFinance2026
 
 ---
 
