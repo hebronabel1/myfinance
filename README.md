@@ -16,19 +16,19 @@ An AI-powered personal finance tool built with React. Helps users budget, improv
 ## Modules
 
 ### Budgeting
-![Budgeting](budgeting.png)
+![Budgeting](budgeting-flow.png)
 
 ### Credit
-![Credit](credit.png)
+![Credit](credit-flow.png)
 
 ### Banking
-![Banking](banking.png)
+![Banking](banking-flow.png)
 
 ### Financing
-![Financing](financing.png)
+![Financing](financing-flow.png)
 
 ### Investing
-![Investing](investing.png)
+![Investing](investing-flow.png)
 
 ---
 
